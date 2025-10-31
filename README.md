@@ -123,9 +123,3 @@ Print com o resultado:
 <br>
 
 <a id="final"></a>
-
-### *Referências*:
-
-- [*Microsoft Learn*](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
-
-- [Fonte de dados](https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai-fundamentals/main/data/ml/daily-bike-share.csv)
