@@ -13,7 +13,7 @@ Na homepage clique na opção "*Criar um recurso*", depois em pesquisar por **Az
 
 <br>
 
-### 02 - Configuração do o Azure Machine Learning
+### 02 - Configuração do o Azure Machine Learning.
 
 No painel intitulado "*Noções Básicas*", na seção "*Detalhes do Recurso*", deve ser inserida a assinatura correspondente à cobrança no campo designado como "*Assinatura*". Posteriormente, especificar o "*Grupo de Recursos*" que irá incorporar o recurso a ser criado
 
