@@ -37,7 +37,7 @@ Acessando o *estúdio Azure ML*, clique na opção "ML Automatizado" no menu à 
 
 ![Img](./images/img04.gif)
 
-Na seção "Configurações Básicas", preencha os campos "Nome do Trabalho", "Novo Nome do Experimento", "Descrição" e clique em "Avançar".
+Na seção "Configurações Básicas", preencha os campos "Nome do Trabalho", "Novo Nome do Experimento", "Descrição" e clique em "Avançar"
 
 Em seguida, na opção "Tipo de Tarefa e Dados", selecione a tarefa do tipo "Regressão". Após, clique em "Selecionar Dados", e em seguida no botão "Criar". Na janela seguinte, na seção "Tipos de Dados", preencha os campos "Nome", "Descrição" e em "Tipo" definina-o como Tabular. Em seguida clique em "Avançar".
 
