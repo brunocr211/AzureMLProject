@@ -17,7 +17,7 @@ Na homepage clique na opção "*Criar um recurso*", depois em pesquisar por **Az
 
 No painel intitulado "*Noções Básicas*", na seção "*Detalhes do Recurso*", deve ser inserida a assinatura correspondente à cobrança no campo designado como "*Assinatura*". Posteriormente, especificar o "*Grupo de Recursos*" que irá incorporar o recurso a ser criado
 
-Em seguida, na seção "*Detalhes da Área de Trabalho*", deve-se fornecer os detalhes do espaço de trabalho a ser estabelecido
+Em seguida, na seção "*Detalhes da Área de Trabalho*", deve-se fornecer os detalhes do espaço de trabalho a ser estabelecido.
 
 ![Img](./images/img01.png)
 
